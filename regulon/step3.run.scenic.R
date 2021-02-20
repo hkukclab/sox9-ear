@@ -1,4 +1,4 @@
-	.libPaths("/home/groups/kathryncheah/software/R_library351")
+	.libPaths("/PRJ/software/R_library351")
 
 	load("int/expression_MF.RData")
 cat("###############################################################################\n")
