@@ -1,5 +1,5 @@
 	load("int/expression_MF.RData")
-	.libPaths("/home/groups/kathryncheah/software/R_library351")
+	.libPaths("/PRJ/software/R_library351")
 cat("###############################################################################\n")
 cat(date(), ": about to run corrMat\n")
 
@@ -8,7 +8,7 @@ cat(date(), ": about to run corrMat\n")
 	#dbDir="../scenic_databases" # RcisTarget databases location
 	#myDatasetTitle="SCENIC example on Mouse brain" # choose a name for your analysis
 	myDatasetTitle<-"SCENIC on irene" # choose a name for your analysis
-	dbDir<-"/home/groups/kathryncheah/pkchen/hisat2/outputs-grch38-single-cell/analysis-2531/scenic_databases/" # RcisTarget databases location
+	dbDir<-"/USER/hisat2/outputs-grch38-single-cell/analysis-2531/scenic_databases/" # RcisTarget databases location
 	scenicOptions <- initializeScenic(org=org, dbDir=dbDir, datasetTitle=myDatasetTitle, nCores=10) 
 
 	#scenicOptions@settings$nCores <- 6
