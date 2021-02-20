@@ -23,5 +23,7 @@ Correspondence:<br>
 kathycheah@hku.hk (K.S.E.C)<br>
 szeto@biochem.mpg.de (I.Y.Y.S)
 
+# see our raw data at:
+GSE131196 and GSE139587
 # see our interactive processed data at:
 http://www.sbms.hku.hk/kclab/sox9-ear/index.php
