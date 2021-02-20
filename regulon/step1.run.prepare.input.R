@@ -1,4 +1,4 @@
-.libPaths("/home/groups/kathryncheah/software/R_library351")
+.libPaths("/PRJ/software/R_library351")
 
 	if(1){
 		dir.create("int")
@@ -9,7 +9,7 @@
 
 	library(SCENIC)
 	org<-"mgi" # or hgnc, or dmel
-	dbDir<-"/home/groups/kathryncheah/pkchen/hisat2/outputs-grch38-single-cell/analysis-2531/scenic_databases/" # RcisTarget databases location
+	dbDir<-"USER/hisat2/outputs-grch38-single-cell/analysis-2531/scenic_databases/" # RcisTarget databases location
 	myDatasetTitle<-"SCENIC on irene" # choose a name for your analysis
 	scenicOptions <- initializeScenic(org=org, dbDir=dbDir,
 		 datasetTitle=myDatasetTitle, nCores=12) 
