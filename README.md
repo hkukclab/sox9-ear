@@ -1,7 +1,6 @@
 # Source codes for
 
-<h3>SOXE factors control fluid homeostasis in the inner ear for hearing through independent
-6 and cooperative mechanisms</h3>
+<h3>SOX9 and SOX10 control fluid homeostasis in the inner ear for hearing through independent and cooperative mechanisms</h3>
 
 Irene, Y.Y. Szeto1<sup>†*</sup>, Daniel, K.H. Chu1<sup>¶</sup>, Peikai Chen1<sup>||¶,</sup> Tiffany, Y. K. Au<sup>1</sup>, Keith, K.H. Leung<sup>1</sup>, K.C. Chu<sup>1</sup>, Yong-Heng Huang<sup>2‡</sup>, Sarah, L. Wynn<sup>1</sup>, Ange<sup>l</sup>, C.Y. Mak<sup>1§</sup>, Ying-Shing Chan<sup>1</sup>, Wood Yee Chan<sup>3</sup>, Ralf Jauch<sup>1,2</sup>, Bernd Fritzsch<sup>4</sup>, Mai Har Sham<sup>1,3</sup>, Robin Lovell-Badge<sup>5</sup>, Kathryn, S.E. Cheah<sup>1*</sup>
 
